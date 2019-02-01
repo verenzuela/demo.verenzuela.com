@@ -101,7 +101,7 @@
 	      <li class="nav-header">Configuracion</li>
 	      
 	      <li class="nav-item">
-	        <a href="pages/calendar.html" class="nav-link">
+	        <a href="#" class="nav-link">
 	          <i class="nav-icon fa fa-calendar"></i>
 	          <p>
 	            SEO
