@@ -36,7 +36,7 @@
             <h1 style="font-size: 32px;">Notificación de Pagos.</h1>
           </header>
 
-          <h3>Indique datos de su recibo</h3>
+          <h3>Indique número de recibo:</h3>
 
           <form method="get" action="{{route('pagos')}}">
             <div class="row uniform">
